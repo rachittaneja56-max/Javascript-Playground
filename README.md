@@ -7,9 +7,8 @@
 
 Interactive JavaScript playground to learn and visualize core JS concepts through modular, hands-on exercises.
 
-**Live Demo:** [PLACEHOLDER_DEPLOYMENT_LINK]  
-**GitHub Repo:** [PLACEHOLDER_GITHUB_LINK]
-
+**Live Demo:** (https://javascript-playground-gray.vercel.app/)
+**GitHub Repo:** (https://github.com/rachittaneja56-max/Javascript-Playground/tree/main)
 ---
 
 ## **Modules & Features**
@@ -111,3 +110,4 @@ Enter `x` and `y` → click Run → see the closure execution in output.
 Fill Name/Age (and ID for Student) → use buttons to interact with objects → observe prototype chain and outputs.
 
 ---
+
