@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JS Mastery Playground</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <h2>JS Playground</h2>
+      <ul>
+        <li data-module="dom">DOM</li>
+        <li data-module="events">Events</li>
+        <li data-module="algorithms">Algorithms</li>
+        <li data-module="async">Async</li>
+        <li data-module="storage">Storage</li>
+        <li data-module="closures">Closures</li>
+        <li data-module="oop">Prototype / OOP</li>
+      </ul>
+    </aside>
+
+    <main id="content">
+      <h1>Pick a module from the sidebar</h1>
+      <div id="module-container"></div>
+    </main>
+  </div>
+
+  <script src="script.js" type="module"></script>
+</body>
+</html>
